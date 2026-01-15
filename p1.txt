@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 first 
 kalaaaaaaaaa
+=======
+first
+second
+>>>>>>> c09b22f (ghjg)
